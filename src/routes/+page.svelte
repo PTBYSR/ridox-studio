@@ -43,10 +43,10 @@
   twitter={{
     handle: '@ptbthefirst',
     site: '@site',
-    cardType: 'summary',
+    cardType: 'large',
     title: 'Ridox Studio',
     description: 'Get a website connected to your Whatsapp Business on a budget.',
-    image: 'https://ridox-studio.vercel.app/ridox-tab-icon.png',
+    image: 'https://ridox-studio.vercel.app/ridox-lg-footer.png',
     imageAlt: 'Twitter image alt'
   }}
   facebook={{
