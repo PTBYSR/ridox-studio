@@ -17,7 +17,7 @@
 </svelte:head>
 <MetaTags
   title="Ridox Studio"
-  titleTemplate="%s  "
+  titleTemplate="%s | hustle smarter "
   description="Get a website connected to your Whatsapp Business on a budget"
   canonical=""
   openGraph={{
