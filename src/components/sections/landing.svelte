@@ -1,10 +1,10 @@
 <section id="landing">
 	<div class="flex flex-col md:mt30 mt-20">
 		<div
-			class="h-full container mx-auto py-6 px-6 md:px-6 flex flex-col justify-center items-center"
+			class="h-full container mx-auto py-6  md:px-6 flex flex-col justify-center items-center"
 		>
 			<div>
-				<h1 class="md:text-[4.5rem] text-4xl text-center leading-[6rem]">
+				<h1 class="md:text-[4.5rem] text-4xl text-center md:leading-[6rem]">
 					Get a website connected to your<br class="md:block hidden" /> Whatsapp
 					<br class="md:hidden" />business
 				</h1>
