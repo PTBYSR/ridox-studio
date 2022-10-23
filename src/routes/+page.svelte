@@ -23,7 +23,7 @@
   openGraph={{
     url: 'https://ridox-studio.vercel.app/',
     title: 'Ridox Studio',
-    description: 'Open Graph Description',
+    description: 'Get a website connected to your Whatsapp Business',
     images: [
       {
         url: 'https://ridox-studio.vercel.app/ridox-tab-icon.png',
