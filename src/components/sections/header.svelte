@@ -39,7 +39,7 @@
 					<img src="../../close.png" alt="close" />
 				</div>
 			</div>
-			<div class="w-full mt-20 flex justify-center items-center">
+			<div class="md:hidden w-full mt-20 flex justify-center items-center">
 				<ul class="text-lg libre flex flex-col gap-7">
 					<li><a href="#landing" on:click={handleClose}> Home</a></li>
 					<li><a href="#pricing" on:click={handleClose}> Pricing</a></li>
