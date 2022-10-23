@@ -32,14 +32,14 @@
 		</div>
 		<div
 			id="hamburger"
-			class="bg-white absolute top-0 right-0 w-2/3 h-screen border-[1px] border-black"
+			class="hidden bg-white absolute top-0 right-0 w-2/3 h-screen border-[1px] border-black"
 		>
 			<div class="flex w-full justify-end">
 				<div class="w-5 mt-8 mr-12" on:keydown on:click={handleClose}>
 					<img src="../../close.png" alt="close" />
 				</div>
 			</div>
-			<div class="md:hidden w-full mt-20 flex justify-center items-center">
+			<div class=" w-full mt-20 flex justify-center items-center">
 				<ul class="text-lg libre flex flex-col gap-7">
 					<li><a href="#landing" on:click={handleClose}> Home</a></li>
 					<li><a href="#pricing" on:click={handleClose}> Pricing</a></li>

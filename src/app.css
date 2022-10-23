@@ -17,7 +17,7 @@ body{
     font-family: 'Libre Baskerville';
 }
 
-.button{
+button{
     color: white;
     background-color: black;
     padding: 1rem 1.5rem;
