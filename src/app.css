@@ -9,12 +9,12 @@ h1, h2{
 }
 
 body{
-    font-family: 'Inter';
+    font-family: 'Inter', sans-serif;
     overflow-x: hidden;
 }
 
 .libre{
-    font-family: 'Libre Baskerville';
+    font-family: 'Libre Baskerville', serif;
 }
 
 button{
