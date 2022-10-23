@@ -17,7 +17,7 @@
 </svelte:head>
 <MetaTags
   title="Ridox Studio"
-  titleTemplate="%s | "
+  titleTemplate="%s  "
   description="Get a website connected to your Whatsapp Business on a budget"
   canonical=""
   openGraph={{
@@ -26,13 +26,13 @@
     description: 'Open Graph Description',
     images: [
       {
-        url: 'https://ridox-studio.vercel.app/ridox-header-logo.png',
+        url: 'https://ridox-studio.vercel.app/ridox-tab-icon.png',
         width: 800,
         height: 600,
         alt: ''
       },
       {
-        url: 'https://ridox-studio.vercel.app/ridox-header-logo.png',
+        url: 'https://ridox-studio.vercel.app/ridox-tab-icon.png',
         width: 900,
         height: 800,
         alt: 'Og Image Alt Second'
@@ -46,7 +46,7 @@
     cardType: 'summary',
     title: 'Ridox Studio',
     description: 'Get a website connected to your Whatsapp Business on a budget.',
-    image: 'https://ridox-studio.vercel.app/ridox-header-logo.png',
+    image: 'https://ridox-studio.vercel.app/ridox-tab-icon.png',
     imageAlt: 'Twitter image alt'
   }}
   facebook={{
