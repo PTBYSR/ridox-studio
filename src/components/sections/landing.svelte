@@ -18,9 +18,9 @@
 		</div>
 		<div class="md:mt-40 mt-20 flex -z-10 justify-center items-center relative">
 			<div class="md:w-1/3 w-1/2 "><img alt="client mockup" src="../../mockup.png" /></div>
-			<div class="  absolute -top-[70px] md:right-[90px] right-[20px] -z-10">
+			<div class="  absolute -top-[70px] md:right-[90px] right-0 -z-10">
 				<p class="md:text-4xl md:mb-7 libre">We did this!</p>
-				<div class="md:w-auto w-1/4 ml-4 md:ml-0"><img alt="arrow" src="../../arrow.svg" /></div>
+				<div class="md:w-auto w-1/4  md:ml-0"><img alt="arrow" src="../../arrow.svg" /></div>
 			</div>
 		</div>
 	</div>
