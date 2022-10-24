@@ -15,6 +15,6 @@
     </div>
     <div class="flex flex-col justify-center items-center">
         <p class="text-5xl text-center mb-10">{card.price}</p>
-        <button>Let us talk on Whatsapp</button>
+        <button><a href="http://wa.me/2348089849241">Let us talk on Whatsapp</a></button>
     </div>
 </div>

@@ -14,7 +14,8 @@
 					Let us promote your business with a website connected to your Whatsapp Business
 				</p>
 			</div>
-			<button>Let us talk on Whatsapp</button>
+			<button><a href="http://wa.me/2348089849241">Let us talk on Whatsapp</a></button>
+			
 		</div>
 		<div class="md:mt-40 mt-20 flex -z-10 justify-center items-center relative">
 			<div class="md:w-1/3 w-1/2 "><img alt="client mockup" src="../../mockup.png" /></div>
